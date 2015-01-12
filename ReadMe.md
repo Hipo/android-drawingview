@@ -9,6 +9,7 @@ You can simply add this view into your layout file set parameters and start draw
 
   - stroke width
   - color
+  - background
 
 ```
 
