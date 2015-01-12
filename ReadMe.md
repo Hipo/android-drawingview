@@ -37,7 +37,7 @@ from Android Studio's terminal
 
  - Add this dependency into your project
    ```
-        compile 'com.hipo.movingview:library:+'
+        compile 'com.hipo.drawingview:library:+'
 ```
 
 
